@@ -1,0 +1,3 @@
+/home/jon-livsi/Downloads/ПарПрог/MP_Lab1/build/CMakeFiles/MP_Lab1.dir
+/home/jon-livsi/Downloads/ПарПрог/MP_Lab1/build/CMakeFiles/edit_cache.dir
+/home/jon-livsi/Downloads/ПарПрог/MP_Lab1/build/CMakeFiles/rebuild_cache.dir
